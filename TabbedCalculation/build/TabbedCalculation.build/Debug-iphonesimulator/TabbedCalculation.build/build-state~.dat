@@ -1,0 +1,482 @@
+TTabbedCalculation
+v7
+r0
+t327553946.254372
+cCheck dependencies
+cProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/Info.plist TabbedCalculation-Info.plist
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/MainWindow.xib
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/AreaView.xib
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/VolumeView.xib
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SummaryView.xib
+cCpResource build/Debug-iphonesimulator/TabbedCalculation.app/Volume.png Volume.png
+cCpResource build/Debug-iphonesimulator/TabbedCalculation.app/Area.png Area.png
+cCpResource build/Debug-iphonesimulator/TabbedCalculation.app/Summary.png Summary.png
+cCpResource build/Debug-iphonesimulator/TabbedCalculation.app/RectArea.png RectArea.png
+cCpResource build/Debug-iphonesimulator/TabbedCalculation.app/CircleArea.png CircleArea.png
+cCpResource build/Debug-iphonesimulator/TabbedCalculation.app/SphereVolume.png SphereVolume.png
+cCpResource build/Debug-iphonesimulator/TabbedCalculation.app/BoxVolume.png BoxVolume.png
+cProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedCalculation_Prefix-fbhboikskphwecelumnisclmtyzz/TabbedCalculation_Prefix.pch.gch TabbedCalculation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/TabbedCalculationAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/TabbedCalculationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/AreaViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../AreaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/VolumeViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../VolumeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/SummaryViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../SummaryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation normal i386
+cGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation
+cTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D682B4E0000000000000110
+t1298672462
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Area.png
+c000000004A0DACEB00000000000010D5
+t1242410219
+s4309
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/AreaView.xib
+c000000004DCA1698000000000000AC43
+t1305089688
+s44099
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/AreaViewController.h
+c000000004DCA23B0000000000000043F
+t1305093040
+s1087
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/BoxVolume.png
+c000000004A0ECEF30000000000002CE8
+t1242484467
+s11496
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/CircleArea.png
+c000000004A0DBD840000000000002BA3
+t1242414468
+s11171
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../AreaViewController.m
+c000000004DCA25B90000000000000F07
+t1305093561
+s3847
+i"VolumeViewController.h"
+i"SummaryViewController.h"
+i"AreaViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../SummaryViewController.m
+c000000004DC25CA70000000000000734
+t1304583335
+s1844
+i"SummaryViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../VolumeViewController.m
+c000000004DCA26100000000000000E04
+t1305093648
+s3588
+i"VolumeViewController.h"
+i"SummaryViewController.h"
+i"AreaViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/TabbedCalculationAppDelegate.h
+c000000004DC1F6A8000000000000027D
+t1304557224
+s637
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/TabbedCalculationAppDelegate.m
+c000000004DCA01420000000000000ABD
+t1305084226
+s2749
+i"TabbedCalculationAppDelegate.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/MainWindow.xib
+c000000004DCA27760000000000009F48
+t1305094006
+s40776
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/RectArea.png
+c000000004A0DBD770000000000001F18
+t1242414455
+s7960
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SphereVolume.png
+c000000004A0ECF0D0000000000004AC2
+t1242484493
+s19138
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Summary.png
+c000000004A0DAF220000000000000EF1
+t1242410786
+s3825
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SummaryView.xib
+c000000004DC25B670000000000004B71
+t1304583015
+s19313
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SummaryViewController.h
+c000000004DC25A7D0000000000000199
+t1304582781
+s409
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/TabbedCalculation_Prefix.pch
+c000000004DB914DA00000000000000CB
+t1303975130
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Volume.png
+c000000004A0DAE5B0000000000001021
+t1242410587
+s4129
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/VolumeView.xib
+c000000004DCA1697000000000000BA91
+t1305089687
+s47761
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/VolumeViewController.h
+c000000004DCA22B5000000000000048D
+t1305092789
+s1165
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app
+t1305861146
+s544
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app.dSYM
+t1305861146
+s102
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/Area.png
+t1305861144
+s4309
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/AreaView.nib
+t1305861143
+s3682
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/BoxVolume.png
+t1305861144
+s11496
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/CircleArea.png
+t1305861144
+s11171
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/Info.plist
+t1305861140
+s637
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/MainWindow.nib
+t1305861143
+s2318
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/PkgInfo
+t1305861140
+s8
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/RectArea.png
+t1305861144
+s7960
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/SphereVolume.png
+t1305861144
+s19138
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/Summary.png
+t1305861144
+s3825
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/SummaryView.nib
+t1305861144
+s1412
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation
+t1305861145
+s34324
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/Volume.png
+t1305861144
+s4129
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/VolumeView.nib
+t1305861144
+s3960
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/AreaViewController.o
+t1305861145
+s51168
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/SummaryViewController.o
+t1305861145
+s41720
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/TabbedCalculation.LinkFileList
+c000000004DD5DC1400000000000003C1
+t1305861140
+s961
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/TabbedCalculationAppDelegate.o
+t1305861145
+s54948
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/VolumeViewController.o
+t1305861145
+s52828
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/main.o
+t1305861145
+s6376
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/main.m
+c000000004DB914DA000000000000016A
+t1303975130
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedCalculation_Prefix-fbhboikskphwecelumnisclmtyzz/TabbedCalculation_Prefix.pch.gch
+t1305094370
+s15453392
+
+NTabbedCalculation-Info.plist
+c000000004DB914DA000000000000038D
+t1303975130
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327553940#327553940#0(0"0(0#1#0"31525334837231728#0"0#
+
+CCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/AreaViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../AreaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327553945.389496
+e327553945.465622
+r1
+xCompileC
+xbuild/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/AreaViewController.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../AreaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../AreaViewController.m327553945#327553945#0(0"0(0#0#106"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../AreaViewController.m8603121856#2549"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedCalculation_Prefix-fbhboikskphwecelumnisclmtyzz/TabbedCalculation_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../AreaViewController.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/AreaViewController.o0#
+
+CCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/SummaryViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../SummaryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327553945.472518
+e327553945.550534
+r1
+xCompileC
+xbuild/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/SummaryViewController.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../SummaryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../SummaryViewController.m327553945#327553945#0(0"0(0#0#109"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../SummaryViewController.m8601447424#2555"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedCalculation_Prefix-fbhboikskphwecelumnisclmtyzz/TabbedCalculation_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../SummaryViewController.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/SummaryViewController.o0#
+
+CCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/TabbedCalculationAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/TabbedCalculationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327553944.486692
+e327553945.410790
+r1
+xCompileC
+xbuild/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/TabbedCalculationAppDelegate.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/TabbedCalculationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/TabbedCalculationAppDelegate.m327553944#327553945#0(0"0(0#0#113"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/TabbedCalculationAppDelegate.m8600202624#2566"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedCalculation_Prefix-fbhboikskphwecelumnisclmtyzz/TabbedCalculation_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/TabbedCalculationAppDelegate.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/TabbedCalculationAppDelegate.o0#
+
+CCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/VolumeViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../VolumeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327553945.410915
+e327553945.502880
+r1
+xCompileC
+xbuild/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/VolumeViewController.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../VolumeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../VolumeViewController.m327553945#327553945#0(0"0(0#0#108"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../VolumeViewController.m8601171552#2553"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedCalculation_Prefix-fbhboikskphwecelumnisclmtyzz/TabbedCalculation_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Classes/../VolumeViewController.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/VolumeViewController.o0#
+
+CCompileC build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327553944.485852
+e327553945.389405
+r1
+xCompileC
+xbuild/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/main.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/main.m327553944#327553945#0(0"0(0#0#81"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/main.m8603118240#2510"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/TabbedCalculation-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedCalculation_Prefix-fbhboikskphwecelumnisclmtyzz/TabbedCalculation_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/main.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/AreaView.xib
+s327553940.947195
+e327553943.898885
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/AreaView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@23"CompileXIB AreaView.xib327553940#327553943#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#87"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/AreaView.xib8600323360#684"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/AreaView.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/AreaView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/MainWindow.xib
+s327553940.883113
+e327553943.898713
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib327553940#327553943#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#89"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/MainWindow.xib8602672736#688"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/MainWindow.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SummaryView.xib
+s327553943.899569
+e327553944.343636
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SummaryView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@26"CompileXIB SummaryView.xib327553943#327553944#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#90"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SummaryView.xib8602947360#690"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/SummaryView.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SummaryView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/VolumeView.xib
+s327553943.898950
+e327553944.485671
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/VolumeView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB VolumeView.xib327553943#327553944#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#89"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/VolumeView.xib8598652608#688"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/VolumeView.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/VolumeView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/TabbedCalculation.app/Area.png Area.png
+s327553944.344356
+e327553944.404637
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabbedCalculation.app/Area.png
+xArea.png
+lSLF07#2@13"Copy Area.png327553944#327553944#0(0"0(0#0#83"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Area.png8603380480#584"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Area.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app0#
+
+CCpResource build/Debug-iphonesimulator/TabbedCalculation.app/BoxVolume.png BoxVolume.png
+s327553944.349427
+e327553944.412618
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabbedCalculation.app/BoxVolume.png
+xBoxVolume.png
+lSLF07#2@18"Copy BoxVolume.png327553944#327553944#0(0"0(0#0#88"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/BoxVolume.png8598796512#589"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/BoxVolume.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app0#
+
+CCpResource build/Debug-iphonesimulator/TabbedCalculation.app/CircleArea.png CircleArea.png
+s327553944.347796
+e327553944.429494
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabbedCalculation.app/CircleArea.png
+xCircleArea.png
+lSLF07#2@19"Copy CircleArea.png327553944#327553944#0(0"0(0#0#89"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/CircleArea.png8601092448#590"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/CircleArea.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app0#
+
+CCpResource build/Debug-iphonesimulator/TabbedCalculation.app/RectArea.png RectArea.png
+s327553944.346455
+e327553944.438238
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabbedCalculation.app/RectArea.png
+xRectArea.png
+lSLF07#2@17"Copy RectArea.png327553944#327553944#0(0"0(0#0#87"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/RectArea.png8602688800#588"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/RectArea.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app0#
+
+CCpResource build/Debug-iphonesimulator/TabbedCalculation.app/SphereVolume.png SphereVolume.png
+s327553944.348294
+e327553944.416915
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabbedCalculation.app/SphereVolume.png
+xSphereVolume.png
+lSLF07#2@21"Copy SphereVolume.png327553944#327553944#0(0"0(0#0#91"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SphereVolume.png8600866144#592"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/SphereVolume.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app0#
+
+CCpResource build/Debug-iphonesimulator/TabbedCalculation.app/Summary.png Summary.png
+s327553944.345218
+e327553944.420867
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabbedCalculation.app/Summary.png
+xSummary.png
+lSLF07#2@16"Copy Summary.png327553944#327553944#0(0"0(0#0#86"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Summary.png8603186848#587"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Summary.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app0#
+
+CCpResource build/Debug-iphonesimulator/TabbedCalculation.app/Volume.png Volume.png
+s327553944.343712
+e327553944.407228
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabbedCalculation.app/Volume.png
+xVolume.png
+lSLF07#2@15"Copy Volume.png327553944#327553944#0(0"0(0#0#85"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Volume.png8603635616#586"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/Volume.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app0#
+
+CGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation
+s327553945.941938
+e327553946.166652
+r1
+xGenerateDSYMFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app.dSYM
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/TabbedCalculation.app.dSYM build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation327553945#327553946#0(0"0(0#0#142"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation8603498496#521"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app.dSYM0#
+
+CLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation normal i386
+s327553945.550614
+e327553945.941845
+r1
+xLd
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation
+xnormal
+xi386
+lSLF07#2@147"Link /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation327553945#327553945#0(0"0(0#0#0"8603268672#1130"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator -filelist /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/TabbedCalculation.build/Debug-iphonesimulator/TabbedCalculation.build/Objects-normal/i386/TabbedCalculation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/TabbedCalculation0#
+
+CProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/Info.plist TabbedCalculation-Info.plist
+s327553940.800846
+e327553940.883030
+r1
+xProcessInfoPlistFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/Info.plist
+xTabbedCalculation-Info.plist
+lSLF07#2@36"Process TabbedCalculation-Info.plist327553940#327553940#0(0"0(0#0#103"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/TabbedCalculation-Info.plist31244173394051168#617"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabbedCalculation-Info.plist -genpkginfo /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app/Info.plist0#
+
+CProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedCalculation_Prefix-fbhboikskphwecelumnisclmtyzz/TabbedCalculation_Prefix.pch.gch TabbedCalculation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app
+s327553946.166751
+e327553946.254311
+r1
+xTouch
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app
+lSLF07#2@130"Touch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app327553946#327553946#0(0"0(0#0#0"8602990912#360"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/TabbedCalculation/build/Debug-iphonesimulator/TabbedCalculation.app0#
+

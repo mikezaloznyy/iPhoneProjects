@@ -1,0 +1,383 @@
+TFinalProject
+v7
+r0
+t411158893.348273
+cCheck dependencies
+cProcessInfoPlistFile "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist" FinalProject-Info.plist
+cCompileXIB "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/MainWindow.xib"
+cCompileXIB "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/RootViewController.xib"
+cCompileXIB "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/DetailView.xib"
+cCpResource build/Debug-iphonesimulator/FinalProject.app/GasManager.sqlite GasManager.sqlite
+cProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch.gch FinalProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/FinalProjectAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/GasManager.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/../GasManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DetailViewController.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject" normal i386
+cGenerateDSYMFile "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app.dSYM" "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject"
+cTouch "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D682B4E0000000000000110
+t1298672462
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/../GasManager.h
+c000000004DD9E82D00000000000004D5
+t1306126381
+s1237
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/../GasManager.m
+c000000004DD9E9450000000000000D2A
+t1306126661
+s3370
+i"GasManager.h"
+i"FinalProjectAppDelegate.h"
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/DetailViewController.h
+c000000004DD9C50400000000000001A0
+t1306117380
+s416
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/DetailViewController.m
+c000000004DD9E7BD0000000000000C06
+t1306126269
+s3078
+i"DetailViewController.h"
+i"GasManager.h"
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/FinalProjectAppDelegate.h
+c000000004DD9B7E000000000000002A3
+t1306114016
+s675
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/FinalProjectAppDelegate.m
+c000000004DD9DCBB00000000000010BC
+t1306123451
+s4284
+i"FinalProjectAppDelegate.h"
+i"RootViewController.h"
+i"GasManager.h"
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/RootViewController.h
+c000000004DD9C792000000000000015C
+t1306118034
+s348
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/RootViewController.m
+c000000004DD9C85400000000000013F4
+t1306118228
+s5108
+i"RootViewController.h"
+i"GasManager.h"
+i"DetailViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/DetailView.xib
+c000000004DD9C658000000000000503F
+t1306117720
+s20543
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/FinalProject_Prefix.pch
+c000000004DD9BF41000000000000016F
+t1306115905
+s367
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"FinalProjectAppDelegate.h"
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/GasManager.h
+c000000004DD9E82D00000000000004D5
+t1306126381
+s1237
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/GasManager.sqlite
+c000000004DD9EB030000000000020000
+t1306127107
+s131072
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/MainWindow.xib
+c000000004DD9B3330000000000006008
+t1306112819
+s24584
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/RootViewController.xib
+c000000004DD9B3330000000000004457
+t1306112819
+s17495
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app
+t1389466093
+s306
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app.dSYM
+t1389466093
+s102
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/DetailView.nib
+t1389466092
+s1267
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject
+t1389466093
+s39512
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/GasManager.sqlite
+t1389466091
+s131072
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist
+t1389466091
+s611
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/MainWindow.nib
+t1389466091
+s1514
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/PkgInfo
+t1389466091
+s8
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/RootViewController.nib
+t1389466091
+s979
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DetailViewController.o
+t1389466093
+s51964
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProject.LinkFileList
+c0000000052D191EB00000000000003DE
+t1389466091
+s990
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o
+t1389466092
+s60388
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/GasManager.o
+t1389466093
+s59772
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o
+t1389466092
+s52772
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o
+t1389466092
+s6412
+
+N/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/main.m
+c000000004DD9B3330000000000000165
+t1306112819
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch.gch
+t1389466092
+s15469808
+
+NFinalProject-Info.plist
+c000000004DD9B333000000000000038D
+t1306112819
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies411158891#411158891#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DetailViewController.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s411158892.987584
+e411158893.055157
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DetailViewController.o
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/DetailViewController.m411158892#411158893#0(0"0(0#0#124"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/DetailViewController.m8605275904#2681"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap" -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap" "-F/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/include" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources" -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch -c "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/DetailViewController.m" -o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DetailViewController.o"0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/FinalProjectAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s411158892.790913
+e411158892.932452
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/FinalProjectAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/FinalProjectAppDelegate.m411158892#411158892#0(0"0(0#0#127"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/FinalProjectAppDelegate.m8605251840#2687"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap" -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap" "-F/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/include" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources" -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch -c "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/FinalProjectAppDelegate.m" -o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o"0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/GasManager.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/../GasManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s411158892.932547
+e411158893.016539
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/GasManager.o
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/../GasManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/../GasManager.m411158892#411158893#0(0"0(0#0#117"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/../GasManager.m8608018464#2664"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap" -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap" "-F/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/include" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources" -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch -c "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/../GasManager.m" -o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/GasManager.o"0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s411158892.896349
+e411158892.987489
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/RootViewController.m411158892#411158892#0(0"0(0#0#122"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/RootViewController.m8609245536#2677"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap" -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap" "-F/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/include" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources" -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch -c "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/Classes/RootViewController.m" -o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s411158892.789612
+e411158892.896255
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/main.m411158892#411158892#0(0"0(0#0#100"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/main.m8609358144#2641"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap" -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap" "-F/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/include" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources" -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch -c "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/main.m" -o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/DetailView.xib"
+s411158891.712708
+e411158892.073470
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib411158891#411158892#0(0"0(0#0#108"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/DetailView.xib8604598048#746"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/DetailView.nib" "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/DetailView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/MainWindow.xib"
+s411158891.279768
+e411158891.712629
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib411158891#411158891#0(0"0(0#0#108"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/MainWindow.xib8605637312#746"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/MainWindow.nib" "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/RootViewController.xib"
+s411158891.286523
+e411158891.713907
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib411158891#411158891#0(0"0(0#0#116"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/RootViewController.xib8604475456#762"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/RootViewController.nib" "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/GasManager.sqlite GasManager.sqlite
+s411158891.713958
+e411158891.751240
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/GasManager.sqlite
+xGasManager.sqlite
+lSLF07#2@22"Copy GasManager.sqlite411158891#411158891#0(0"0(0#0#111"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/GasManager.sqlite8609026400#651"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/GasManager.sqlite" "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app"0#
+
+CGenerateDSYMFile "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app.dSYM" "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject"
+s411158893.274886
+e411158893.314513
+r1
+xGenerateDSYMFile
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app.dSYM
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/FinalProject.app.dSYM build/Debug-iphonesimulator/FinalProject.app/FinalProject411158893#411158893#0(0"0(0#0#151"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject8604471520#569"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject" -o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app.dSYM"0#
+
+CLd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject" normal i386
+s411158893.055248
+e411158893.274792
+r1
+xLd
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject
+xnormal
+xi386
+lSLF07#2@156"Link /Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject411158893#411158893#0(0"0(0#0#0"8598826720#1222"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator" "-F/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator" -filelist "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProject.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject"0#
+
+CProcessInfoPlistFile "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist" FinalProject-Info.plist
+s411158891.216373
+e411158891.279673
+r1
+xProcessInfoPlistFile
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist
+xFinalProject-Info.plist
+lSLF07#2@31"Process FinalProject-Info.plist411158891#411158891#0(0"0(0#0#117"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/FinalProject-Info.plist8315173711782111232#665"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FinalProject-Info.plist -genpkginfo "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist"0#
+
+CProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch.gch FinalProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s411158892.073604
+e411158892.789415
+r1
+xProcessPCH
+x/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch.gch
+xFinalProject_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FinalProject_Prefix.pch411158892#411158892#0(0"0(0#0#117"/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/FinalProject_Prefix.pch8608607936#2471"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap" -iquote "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap" "-F/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/include" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386" "-I/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources" -c "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/FinalProject_Prefix.pch" -o /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-gvysmnhmrpkxhjaieoecaivnywpz/FinalProject_Prefix.pch.gch0#
+
+CTouch "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app"
+s411158893.314581
+e411158893.348226
+r1
+xTouch
+x/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app
+lSLF07#2@144"Touch /Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app411158893#411158893#0(0"0(0#0#0"8608152608#397"    cd "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/mykhaylozaloznyy/Documents/Disconnected (finished)/iPhoneProjects/CIT198B/FinalProject/build/Debug-iphonesimulator/FinalProject.app"0#
+

@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* DateCalc */ = {
+		activeExec = 0;
+		executables = (
+			59123202135FCBD70043CB1A /* DateCalc */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* DateCalcViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 446}}";
+			sepNavSelRange = "{406, 0}";
+			sepNavVisRange = "{0, 601}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* DateCalcViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1160, 1984}}";
+			sepNavSelRange = "{2608, 0}";
+			sepNavVisRange = "{2154, 970}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 59123202135FCBD70043CB1A /* DateCalc */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DateCalc */;
+		codeSenseManager = 59123213135FCBF70043CB1A /* Code sense */;
+		executables = (
+			59123202135FCBD70043CB1A /* DateCalc */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					982,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325572553;
+			PBXWorkspaceStateSaveDate = 325572553;
+		};
+		perUserProjectItems = {
+			59123253135FD66A0043CB1A /* PBXTextBookmark */ = 59123253135FD66A0043CB1A /* PBXTextBookmark */;
+			598DA7761367D7CD002BD813 /* PBXTextBookmark */ = 598DA7761367D7CD002BD813 /* PBXTextBookmark */;
+			598DA78213690146002BD813 /* PBXTextBookmark */ = 598DA78213690146002BD813 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 59123212135FCBF70043CB1A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	59123202135FCBD70043CB1A /* DateCalc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DateCalc;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	59123212135FCBF70043CB1A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	59123213135FCBF70043CB1A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	59123253135FD66A0043CB1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DateCalcViewController.h */;
+		name = "DateCalcViewController.h: 16";
+		rLen = 0;
+		rLoc = 406;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	598DA7761367D7CD002BD813 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DateCalcViewController.m */;
+		name = "DateCalcViewController.m: 94";
+		rLen = 0;
+		rLoc = 2608;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 2154;
+	};
+	598DA78213690146002BD813 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DateCalcViewController.m */;
+		name = "DateCalcViewController.m: 94";
+		rLen = 0;
+		rLoc = 2608;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 2154;
+	};
+}

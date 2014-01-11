@@ -1,0 +1,51 @@
+TDisconnected
+v7
+r1
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/DisconnectedViewController.xib
+c000000004A5967290000000000003B1B
+t1247373097
+s15131
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/MainWindow.xib
+c000000004C0020BD0000000000004E65
+t1275076797
+s20069
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug/Disconnected.app
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug/Disconnected.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug/Disconnected.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug/Disconnected.app/Contents/Resources/DisconnectedViewController.nib
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug/Disconnected.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NDisconnected-Info.plist
+c000000004C0020BD000000000000038D
+t1275076797
+s909
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/DisconnectedViewController.xib"
+r0
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug/Disconnected.app/Contents/Info.plist" Disconnected-Info.plist
+r0
+
+CTouch "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug/Disconnected.app"
+r0
+

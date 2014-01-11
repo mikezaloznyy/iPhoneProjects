@@ -1,0 +1,197 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MiniBrowserAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 404}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 493}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MiniBrowser */ = {
+		activeExec = 0;
+		executables = (
+			592A8858134D5EDC00375879 /* MiniBrowser */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MiniBrowserViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 608}}";
+			sepNavSelRange = "{1613, 37}";
+			sepNavVisRange = "{515, 1186}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MiniBrowserViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1156, 3392}}";
+			sepNavSelRange = "{4422, 35}";
+			sepNavVisRange = "{2535, 588}";
+			sepNavWindowFrame = "{{15, 615}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 592A8858134D5EDC00375879 /* MiniBrowser */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MiniBrowser */;
+		codeSenseManager = 592A8868134D5EED00375879 /* Code sense */;
+		executables = (
+			592A8858134D5EDC00375879 /* MiniBrowser */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					703,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 411159210;
+			PBXWorkspaceStateSaveDate = 411159210;
+		};
+		perUserProjectItems = {
+			590D5530134FCFB50039D4DE = 590D5530134FCFB50039D4DE /* PBXTextBookmark */;
+			592A888F134D6E0200375879 = 592A888F134D6E0200375879 /* PBXTextBookmark */;
+			592A88EB134D782100375879 = 592A88EB134D782100375879 /* PBXTextBookmark */;
+			594D8DF013862F7A00A32333 = 594D8DF013862F7A00A32333 /* PBXTextBookmark */;
+			594D8DF113862F7A00A32333 = 594D8DF113862F7A00A32333 /* PBXTextBookmark */;
+			59B0E83B1881CAC00065B404 /* PBXTextBookmark */ = 59B0E83B1881CAC00065B404 /* PBXTextBookmark */;
+			59B0E83C1881CAC00065B404 /* PBXTextBookmark */ = 59B0E83C1881CAC00065B404 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 592A8867134D5EED00375879 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	590D5530134FCFB50039D4DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MiniBrowserViewController.m */;
+		name = "MiniBrowserViewController.m: 159";
+		rLen = 35;
+		rLoc = 4422;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	592A8858134D5EDC00375879 /* MiniBrowser */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MiniBrowser;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	592A8867134D5EED00375879 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	592A8868134D5EED00375879 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	592A888F134D6E0200375879 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MiniBrowserAppDelegate.h */;
+		name = "MiniBrowserAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	592A88EB134D782100375879 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 592A88EC134D782100375879 /* Hello.m */;
+		name = "Hello.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 78;
+	};
+	592A88EC134D782100375879 /* Hello.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Hello.m;
+		path = "/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ObjC-Demos/Classes/Hello.m";
+		sourceTree = "<absolute>";
+	};
+	594D8DF013862F7A00A32333 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MiniBrowserViewController.h */;
+		name = "MiniBrowserViewController.h: 34";
+		rLen = 37;
+		rLoc = 1613;
+		rType = 0;
+		vrLen = 1282;
+		vrLoc = 419;
+	};
+	594D8DF113862F7A00A32333 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MiniBrowserViewController.h */;
+		name = "MiniBrowserViewController.h: 34";
+		rLen = 37;
+		rLoc = 1613;
+		rType = 0;
+		vrLen = 1090;
+		vrLoc = 612;
+	};
+	59B0E83B1881CAC00065B404 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MiniBrowserViewController.h */;
+		name = "MiniBrowserViewController.h: 34";
+		rLen = 37;
+		rLoc = 1613;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 515;
+	};
+	59B0E83C1881CAC00065B404 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MiniBrowserViewController.m */;
+		name = "MiniBrowserViewController.m: 159";
+		rLen = 35;
+		rLoc = 4422;
+		rType = 0;
+		vrLen = 588;
+		vrLoc = 2535;
+	};
+}

@@ -1,0 +1,383 @@
+THelloSimulator
+v7
+r0
+t320540283.852878
+cCheck dependencies
+cProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/Info.plist HelloSimulator-Info.plist
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/MainWindow.xib
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulatorViewController.xib
+cProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdsiqufvzrwmwccfssfmwhcqtqld/HelloSimulator_Prefix.pch.gch HelloSimulator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator normal i386
+cGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator
+cTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D682B4E0000000000000110
+t1298672462
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorAppDelegate.h
+c000000004BFFF0F4000000000000020B
+t1275064564
+s523
+i<UIKit/UIKit.h>
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorAppDelegate.m
+c000000004BFFF0F40000000000000AB0
+t1275064564
+s2736
+i"HelloSimulatorAppDelegate.h"
+i"HelloSimulatorViewController.h"
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorViewController.h
+c000000004BFFF2D90000000000000156
+t1275065049
+s342
+i<UIKit/UIKit.h>
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorViewController.m
+c000000004BFFF80C0000000000000A51
+t1275066380
+s2641
+i"HelloSimulatorViewController.h"
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/HelloSimulatorViewController.xib
+c000000004BFFF5B1000000000000433A
+t1275065777
+s17210
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/HelloSimulator_Prefix.pch
+c000000004BFFF0F400000000000000C5
+t1275064564
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/MainWindow.xib
+c000000004BFFF0F40000000000004E7D
+t1275064564
+s20093
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app.dSYM
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulatorViewController.nib
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/Info.plist
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/MainWindow.nib
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/PkgInfo
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulator.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorAppDelegate.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorViewController.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/main.m
+c000000004BFFF0F40000000000000172
+t1275064564
+s370
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorAppDelegate.h
+c000000004BFFF0F4000000000000020B
+t1275064564
+s523
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorAppDelegate.m
+c000000004BFFF0F40000000000000AB0
+t1275064564
+s2736
+i"HelloSimulatorAppDelegate.h"
+i"HelloSimulatorViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorViewController.h
+c000000004D6AD6D20000000000000181
+t1298847442
+s385
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorViewController.m
+c000000004D6AD6E00000000000000A7C
+t1298847456
+s2684
+i"HelloSimulatorViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulatorViewController.xib
+c000000004BFFF5B1000000000000433A
+t1275065777
+s17210
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulator_Prefix.pch
+c000000004BFFF0F400000000000000C5
+t1275064564
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/MainWindow.xib
+c000000004BFFF0F40000000000004E7D
+t1275064564
+s20093
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app
+t1298847483
+s238
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app.dSYM
+t1298847483
+s102
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator
+t1298847483
+s19048
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulatorViewController.nib
+t1298847482
+s1032
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/Info.plist
+t1298847482
+s619
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/MainWindow.nib
+t1298847482
+s1137
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/PkgInfo
+t1298847482
+s8
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulator.LinkFileList
+c000000004D6AD6FA0000000000000228
+t1298847482
+s552
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorAppDelegate.o
+t1298847483
+s51484
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorViewController.o
+t1298847483
+s50200
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/main.o
+t1298847483
+s6368
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/main.m
+c000000004BFFF0F40000000000000172
+t1275064564
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdiehksstsqgbbfkvhzqwstrpzmx/HelloSimulator_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdsiqufvzrwmwccfssfmwhcqtqld/HelloSimulator_Prefix.pch.gch
+t1298847483
+s15453392
+
+NHelloSimulator-Info.plist
+c000000004BFFF0F4000000000000038D
+t1275064564
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320540282#320540282#0(0"0(0#1#0"8618675072#0"0#
+
+CCompileC build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorAppDelegate.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320540283.650137
+e320540283.734688
+r1
+xCompileC
+xbuild/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorAppDelegate.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorAppDelegate.m320540283#320540283#0(0"0(0#0#107"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorAppDelegate.m8611000288#2467"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdsiqufvzrwmwccfssfmwhcqtqld/HelloSimulator_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorAppDelegate.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorAppDelegate.o0#
+
+CCompileC build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorViewController.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320540283.696717
+e320540283.761208
+r1
+xCompileC
+xbuild/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorViewController.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorViewController.m320540283#320540283#0(0"0(0#0#110"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorViewController.m8610016512#2473"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdsiqufvzrwmwccfssfmwhcqtqld/HelloSimulator_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/Classes/HelloSimulatorViewController.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulatorViewController.o0#
+
+CCompileC build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/main.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320540283.649020
+e320540283.696628
+r1
+xCompileC
+xbuild/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/main.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/main.m320540283#320540283#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/main.m8617488640#2417"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdsiqufvzrwmwccfssfmwhcqtqld/HelloSimulator_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/main.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/HelloSimulatorViewController.xib"
+r0
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/MainWindow.xib"
+r0
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulatorViewController.xib
+s320540282.581654
+e320540283.014630
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulatorViewController.xib
+lSLF07#2@43"CompileXIB HelloSimulatorViewController.xib320540282#320540283#0(0"0(0#0#104"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulatorViewController.xib8617369472#712"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulatorViewController.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/MainWindow.xib
+s320540282.581102
+e320540282.951678
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320540282#320540282#0(0"0(0#0#86"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/MainWindow.xib8617553408#676"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/MainWindow.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app.dSYM" "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator"
+r0
+
+CGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator
+s320540283.795728
+e320540283.850214
+r1
+xGenerateDSYMFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app.dSYM
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/HelloSimulator.app.dSYM build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator320540283#320540283#0(0"0(0#0#133"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator8621022368#503"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app.dSYM0#
+
+CLd "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator" normal i386
+r0
+
+CLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator normal i386
+s320540283.761295
+e320540283.795644
+r1
+xLd
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator
+xnormal
+xi386
+lSLF07#2@138"Link /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator320540283#320540283#0(0"0(0#0#0"8609522144#1100"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator -filelist /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/Objects-normal/i386/HelloSimulator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/HelloSimulator0#
+
+CProcessInfoPlistFile "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/Info.plist" HelloSimulator-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/Info.plist HelloSimulator-Info.plist
+s320540282.575942
+e320540282.581039
+r1
+xProcessInfoPlistFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/Info.plist
+xHelloSimulator-Info.plist
+lSLF07#2@33"Process HelloSimulator-Info.plist320540282#320540282#0(0"0(0#0#97"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulator-Info.plist8609257184#599"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloSimulator-Info.plist -genpkginfo /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app/Info.plist0#
+
+CProcessPCH /var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdiehksstsqgbbfkvhzqwstrpzmx/HelloSimulator_Prefix.pch.gch HelloSimulator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdsiqufvzrwmwccfssfmwhcqtqld/HelloSimulator_Prefix.pch.gch HelloSimulator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320540283.014731
+e320540283.648921
+r1
+xProcessPCH
+x/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdsiqufvzrwmwccfssfmwhcqtqld/HelloSimulator_Prefix.pch.gch
+xHelloSimulator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile HelloSimulator_Prefix.pch320540283#320540283#0(0"0(0#0#97"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulator_Prefix.pch8620183808#2269"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/HelloSimulator-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/HelloSimulator.build/Debug-iphonesimulator/HelloSimulator.build/DerivedSources -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/HelloSimulator_Prefix.pch -o /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloSimulator_Prefix-fdsiqufvzrwmwccfssfmwhcqtqld/HelloSimulator_Prefix.pch.gch0#
+
+CTouch "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app"
+r0
+
+CTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app
+s320540283.850431
+e320540283.852813
+r1
+xTouch
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app
+lSLF07#2@124"Touch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app320540283#320540283#0(0"0(0#0#0"8620626112#351"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/HelloSimulator/build/Debug-iphonesimulator/HelloSimulator.app0#
+

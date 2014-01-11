@@ -1,0 +1,284 @@
+TFieldButtonFun
+v7
+r0
+t322783658.355399
+cCheck dependencies
+cProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist FieldButtonFun-Info.plist
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/MainWindow.xib
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/FieldButtonFunViewController.xib
+cCpResource build/Debug-iphonesimulator/FieldButtonFun.app/blueButton.png blueButton.png
+cCpResource build/Debug-iphonesimulator/FieldButtonFun.app/whiteButton.png whiteButton.png
+cProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-eoavgmaahvvlqzasibsobbikirtr/FieldButtonFun_Prefix.pch.gch FieldButtonFun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun normal i386
+cGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+cTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D682B4E0000000000000110
+t1298672462
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunAppDelegate.h
+c000000004D8163670000000000000200
+t1300325223
+s512
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m
+c000000004D8163670000000000000AAF
+t1300325223
+s2735
+i"FieldButtonFunAppDelegate.h"
+i"FieldButtonFunViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunViewController.h
+c000000004D81751400000000000004B2
+t1300329748
+s1202
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunViewController.m
+c000000004D8D141D0000000000000D9D
+t1301091357
+s3485
+i"FieldButtonFunViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/FieldButtonFunViewController.xib
+c000000004D8177C8000000000000E0AB
+t1300330440
+s57515
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/FieldButtonFun_Prefix.pch
+c000000004D81636700000000000000C5
+t1300325223
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/MainWindow.xib
+c000000004D8163670000000000004E7D
+t1300325223
+s20093
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/blueButton.png
+c0000000049FA2DC300000000000005BC
+t1241132483
+s1468
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app
+t1301090858
+s306
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM
+t1301090858
+s102
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+t1301090858
+s26596
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFunViewController.nib
+t1301090857
+s5429
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist
+t1301090856
+s619
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/MainWindow.nib
+t1301090856
+s1137
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/PkgInfo
+t1301090856
+s8
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/blueButton.png
+t1301090856
+s1468
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/whiteButton.png
+t1301090856
+s1430
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFun.LinkFileList
+c000000004D8D12280000000000000228
+t1301090856
+s552
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o
+t1301090858
+s52424
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o
+t1301090858
+s58180
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o
+t1301090858
+s6368
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/main.m
+c000000004D8163670000000000000167
+t1300325223
+s359
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/whiteButton.png
+c0000000049FA2DC30000000000000596
+t1241132483
+s1430
+
+N/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-eoavgmaahvvlqzasibsobbikirtr/FieldButtonFun_Prefix.pch.gch
+t1300899528
+s15453392
+
+NFieldButtonFun-Info.plist
+c000000004D816367000000000000038D
+t1300325223
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322783656#322783656#0(0"0(0#1#0"8618205312#0"0#
+
+CCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322783657.195785
+e322783658.138388
+r1
+xCompileC
+xbuild/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m322783657#322783658#0(0"0(0#0#107"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m8617459040#2467"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-eoavgmaahvvlqzasibsobbikirtr/FieldButtonFun_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o0#
+
+CCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322783658.122514
+e322783658.201761
+r1
+xCompileC
+xbuild/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunViewController.m322783658#322783658#0(0"0(0#0#110"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunViewController.m8617354688#2473"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-eoavgmaahvvlqzasibsobbikirtr/FieldButtonFun_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/Classes/FieldButtonFunViewController.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o0#
+
+CCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322783657.194778
+e322783658.122363
+r1
+xCompileC
+xbuild/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/main.m322783657#322783658#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/main.m8617853408#2417"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-eoavgmaahvvlqzasibsobbikirtr/FieldButtonFun_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/main.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/FieldButtonFunViewController.xib
+s322783656.496917
+e322783657.194624
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/FieldButtonFunViewController.xib
+lSLF07#2@43"CompileXIB FieldButtonFunViewController.xib322783656#322783657#0(0"0(0#0#104"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/FieldButtonFunViewController.xib8613141824#712"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFunViewController.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/FieldButtonFunViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/MainWindow.xib
+s322783656.496370
+e322783656.878714
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322783656#322783656#0(0"0(0#0#86"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/MainWindow.xib8613833440#676"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/MainWindow.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/FieldButtonFun.app/blueButton.png blueButton.png
+s322783656.878797
+e322783656.921433
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FieldButtonFun.app/blueButton.png
+xblueButton.png
+lSLF07#2@19"Copy blueButton.png322783656#322783656#0(0"0(0#0#86"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/blueButton.png8613925984#578"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/blueButton.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app0#
+
+CCpResource build/Debug-iphonesimulator/FieldButtonFun.app/whiteButton.png whiteButton.png
+s322783656.879507
+e322783656.924655
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FieldButtonFun.app/whiteButton.png
+xwhiteButton.png
+lSLF07#2@20"Copy whiteButton.png322783656#322783656#0(0"0(0#0#87"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/whiteButton.png8613296928#579"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/whiteButton.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app0#
+
+CGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+s322783658.338503
+e322783658.352768
+r1
+xGenerateDSYMFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/FieldButtonFun.app.dSYM build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun322783658#322783658#0(0"0(0#0#133"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun8617561824#503"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM0#
+
+CLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun normal i386
+s322783658.201846
+e322783658.338410
+r1
+xLd
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+xnormal
+xi386
+lSLF07#2@138"Link /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun322783658#322783658#0(0"0(0#0#0"8611489568#1100"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator -filelist /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFun.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun0#
+
+CProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist FieldButtonFun-Info.plist
+s322783656.493105
+e322783656.496310
+r1
+xProcessInfoPlistFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist
+xFieldButtonFun-Info.plist
+lSLF07#2@33"Process FieldButtonFun-Info.plist322783656#322783656#0(0"0(0#0#97"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/FieldButtonFun-Info.plist8600357216#599"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FieldButtonFun-Info.plist -genpkginfo /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist0#
+
+CProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-eoavgmaahvvlqzasibsobbikirtr/FieldButtonFun_Prefix.pch.gch FieldButtonFun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app
+s322783658.352990
+e322783658.355371
+r1
+xTouch
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app
+lSLF07#2@124"Touch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app322783658#322783658#0(0"0(0#0#0"8615990944#351"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app0#
+

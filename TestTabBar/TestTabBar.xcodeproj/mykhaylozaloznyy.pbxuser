@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TestTabBarAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 455}}";
+			sepNavSelRange = "{440, 0}";
+			sepNavVisRange = "{0, 442}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TestTabBarAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1344}}";
+			sepNavSelRange = "{556, 0}";
+			sepNavVisRange = "{3, 690}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TestTabBar */ = {
+		activeExec = 0;
+		executables = (
+			5930C5C6137A349A008E0FD0 /* TestTabBar */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5930C5C6137A349A008E0FD0 /* TestTabBar */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TestTabBar */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TestTabBar */,
+		);
+		codeSenseManager = 5930C5D6137A349E008E0FD0 /* Code sense */;
+		executables = (
+			5930C5C6137A349A008E0FD0 /* TestTabBar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					654,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326778119;
+			PBXWorkspaceStateSaveDate = 326778119;
+		};
+		perUserProjectItems = {
+			5930C5ED137A3559008E0FD0 /* PBXTextBookmark */ = 5930C5ED137A3559008E0FD0 /* PBXTextBookmark */;
+			5930C5FB137A36CC008E0FD0 /* PBXTextBookmark */ = 5930C5FB137A36CC008E0FD0 /* PBXTextBookmark */;
+			5930C5FF137A3705008E0FD0 /* PBXTextBookmark */ = 5930C5FF137A3705008E0FD0 /* PBXTextBookmark */;
+			5930C61A137A38AD008E0FD0 /* PBXTextBookmark */ = 5930C61A137A38AD008E0FD0 /* PBXTextBookmark */;
+			5930C686137A4671008E0FD0 /* PBXTextBookmark */ = 5930C686137A4671008E0FD0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5930C5D5137A349E008E0FD0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5930C5C6137A349A008E0FD0 /* TestTabBar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TestTabBar;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5930C5D5137A349E008E0FD0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5930C5D6137A349E008E0FD0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5930C5E3137A353A008E0FD0 /* FirstTabViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 272}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	5930C5E8137A3545008E0FD0 /* SecondTabViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {567, 315}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 236}";
+		};
+	};
+	5930C5ED137A3559008E0FD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5930C5E3137A353A008E0FD0 /* FirstTabViewController.h */;
+		name = "FirstTabViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	5930C5FB137A36CC008E0FD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5930C5E8137A3545008E0FD0 /* SecondTabViewController.h */;
+		name = "SecondTabViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 0;
+	};
+	5930C5FF137A3705008E0FD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TestTabBarAppDelegate.h */;
+		name = "TestTabBarAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	5930C61A137A38AD008E0FD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TestTabBarAppDelegate.m */;
+		name = "TestTabBarAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 3;
+	};
+	5930C686137A4671008E0FD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TestTabBarAppDelegate.m */;
+		name = "TestTabBarAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 3;
+	};
+}

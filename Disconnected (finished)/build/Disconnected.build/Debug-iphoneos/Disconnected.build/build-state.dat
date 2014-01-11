@@ -1,0 +1,243 @@
+TDisconnected
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004C8F144F0000000000000110
+t1284445263
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004C87207200000000000001E5
+t1283924082
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C87325D000000000034F940
+t1283928669
+s3471680
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C8732F100000000003E1F20
+t1283928817
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C8732D00000000000001466
+t1283928784
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C8740FE0000000000000AA1
+t1283932414
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C87423D0000000000C4E640
+t1283932733
+s12904000
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/Classes/DisconnectedAppDelegate.h
+c000000004C0020BD00000000000001FF
+t1275076797
+s511
+i<UIKit/UIKit.h>
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/Classes/DisconnectedAppDelegate.m
+c000000004C0020BD0000000000000AA6
+t1275076797
+s2726
+i"DisconnectedAppDelegate.h"
+i"DisconnectedViewController.h"
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/Classes/DisconnectedViewController.h
+c000000004C0020DF0000000000000235
+t1275076831
+s565
+i<UIKit/UIKit.h>
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/Classes/DisconnectedViewController.m
+c000000004C00220F0000000000000924
+t1275077135
+s2340
+i"DisconnectedViewController.h"
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/DisconnectedViewController.xib
+c000000004A5967290000000000003B1B
+t1247373097
+s15131
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/Disconnected_Prefix.pch
+c000000004C0020BD00000000000000C1
+t1275076797
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/MainWindow.xib
+c000000004C0020BD0000000000004E65
+t1275076797
+s20069
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app.dSYM
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/Disconnected
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/DisconnectedViewController.nib
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/Info.plist
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/MainWindow.nib
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/PkgInfo
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/ResourceRules.plist
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv6/Disconnected
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv6/Disconnected.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv6/DisconnectedAppDelegate.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv6/DisconnectedViewController.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv7/Disconnected
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv7/Disconnected.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv7/DisconnectedAppDelegate.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv7/DisconnectedViewController.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/main.m
+c000000004C0020BD0000000000000170
+t1275076797
+s368
+i<UIKit/UIKit.h>
+
+N/Users/jray/Library/MobileDevice/Provisioning Profiles/DD36797B-E819-4DCC-82A0-8BFFE8E823F5.mobileprovision
+c000000004C9143DE0000000000001DE6
+t1284588510
+s7654
+
+N/var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/Disconnected_Prefix-aadzkkyzfzyetbdhhokvciynbekj/Disconnected_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/Disconnected_Prefix-fabffknvffkpjpgizhazwtlgdzgg/Disconnected_Prefix.pch.gch
+t2
+s0
+
+NDisconnected-Info.plist
+c000000004C0020BD000000000000038D
+t1275076797
+s909
+
+CCodeSign "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app"
+r0
+
+CCompileC build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv6/DisconnectedAppDelegate.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/Classes/DisconnectedAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv6/DisconnectedViewController.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/Classes/DisconnectedViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv6/main.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv7/DisconnectedAppDelegate.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/Classes/DisconnectedAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv7/DisconnectedViewController.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/Classes/DisconnectedViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv7/main.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/DisconnectedViewController.xib"
+r0
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/Disconnected.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/Disconnected" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app.dSYM" "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/Disconnected"
+r0
+
+CLd "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv6/Disconnected" normal armv6
+r0
+
+CLd "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Objects-normal/armv7/Disconnected" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/Info.plist" Disconnected-Info.plist
+r0
+
+CProcessPCH /var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/Disconnected_Prefix-aadzkkyzfzyetbdhhokvciynbekj/Disconnected_Prefix.pch.gch Disconnected_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/Disconnected_Prefix-fabffknvffkpjpgizhazwtlgdzgg/Disconnected_Prefix.pch.gch Disconnected_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/jray/Library/MobileDevice/Provisioning Profiles/DD36797B-E819-4DCC-82A0-8BFFE8E823F5.mobileprovision" "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Disconnected.build/Debug-iphoneos/Disconnected.build/Disconnected.xcent"
+r0
+
+CTouch "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 5 - Done/Hour 5 - Projects/Disconnected (finished)/build/Debug-iphoneos/Disconnected.app"
+r0
+

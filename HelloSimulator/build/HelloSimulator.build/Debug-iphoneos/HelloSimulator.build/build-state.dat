@@ -1,0 +1,243 @@
+THelloSimulator
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004C8F144F0000000000000110
+t1284445263
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004C87207200000000000001E5
+t1283924082
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C87325D000000000034F940
+t1283928669
+s3471680
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C8732F100000000003E1F20
+t1283928817
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C8732D00000000000001466
+t1283928784
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C8740FE0000000000000AA1
+t1283932414
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C87423D0000000000C4E640
+t1283932733
+s12904000
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorAppDelegate.h
+c000000004BFFF0F4000000000000020B
+t1275064564
+s523
+i<UIKit/UIKit.h>
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorAppDelegate.m
+c000000004BFFF0F40000000000000AB0
+t1275064564
+s2736
+i"HelloSimulatorAppDelegate.h"
+i"HelloSimulatorViewController.h"
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorViewController.h
+c000000004BFFF2D90000000000000156
+t1275065049
+s342
+i<UIKit/UIKit.h>
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorViewController.m
+c000000004BFFF80C0000000000000A51
+t1275066380
+s2641
+i"HelloSimulatorViewController.h"
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/HelloSimulatorViewController.xib
+c000000004BFFF5B1000000000000433A
+t1275065777
+s17210
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/HelloSimulator_Prefix.pch
+c000000004BFFF0F400000000000000C5
+t1275064564
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/MainWindow.xib
+c000000004BFFF0F40000000000004E7D
+t1275064564
+s20093
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app.dSYM
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/HelloSimulator
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/HelloSimulatorViewController.nib
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/Info.plist
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/MainWindow.nib
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/PkgInfo
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/ResourceRules.plist
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv6/HelloSimulator
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv6/HelloSimulator.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv6/HelloSimulatorAppDelegate.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv6/HelloSimulatorViewController.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv7/HelloSimulator
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv7/HelloSimulator.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv7/HelloSimulatorAppDelegate.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv7/HelloSimulatorViewController.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/main.m
+c000000004BFFF0F40000000000000172
+t1275064564
+s370
+i<UIKit/UIKit.h>
+
+N/Users/jray/Library/MobileDevice/Provisioning Profiles/DD36797B-E819-4DCC-82A0-8BFFE8E823F5.mobileprovision
+c000000004C9143DE0000000000001DE6
+t1284588510
+s7654
+
+N/var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/HelloSimulator_Prefix-ednnapvvdunadcdhdjuplzjakrap/HelloSimulator_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/HelloSimulator_Prefix-feqgqiqjdctrpkevrjtsuwzepwwx/HelloSimulator_Prefix.pch.gch
+t2
+s0
+
+NHelloSimulator-Info.plist
+c000000004BFFF0F4000000000000038D
+t1275064564
+s909
+
+CCodeSign "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app"
+r0
+
+CCompileC build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv6/HelloSimulatorAppDelegate.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv6/HelloSimulatorViewController.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv6/main.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv7/HelloSimulatorAppDelegate.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv7/HelloSimulatorViewController.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/Classes/HelloSimulatorViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv7/main.o "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/HelloSimulatorViewController.xib"
+r0
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/HelloSimulator.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/HelloSimulator" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app.dSYM" "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/HelloSimulator"
+r0
+
+CLd "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv6/HelloSimulator" normal armv6
+r0
+
+CLd "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/Objects-normal/armv7/HelloSimulator" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/Info.plist" HelloSimulator-Info.plist
+r0
+
+CProcessPCH /var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/HelloSimulator_Prefix-ednnapvvdunadcdhdjuplzjakrap/HelloSimulator_Prefix.pch.gch HelloSimulator_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8I/8IhGYFA0HfisIMzWZLw0C+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/HelloSimulator_Prefix-feqgqiqjdctrpkevrjtsuwzepwwx/HelloSimulator_Prefix.pch.gch HelloSimulator_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/jray/Library/MobileDevice/Provisioning Profiles/DD36797B-E819-4DCC-82A0-8BFFE8E823F5.mobileprovision" "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/HelloSimulator.build/Debug-iphoneos/HelloSimulator.build/HelloSimulator.xcent"
+r0
+
+CTouch "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug-iphoneos/HelloSimulator.app"
+r0
+

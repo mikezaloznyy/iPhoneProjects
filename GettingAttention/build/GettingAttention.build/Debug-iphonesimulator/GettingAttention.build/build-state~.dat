@@ -1,0 +1,256 @@
+TGettingAttention
+v7
+r0
+t324190134.676123
+cCheck dependencies
+cProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist GettingAttention-Info.plist
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/MainWindow.xib
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttentionViewController.xib
+cProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-ftvogaokbsieyufazcgdrkpprdhl/GettingAttention_Prefix.pch.gch GettingAttention_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention normal i386
+cGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+cTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D682B4E0000000000000110
+t1298672462
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionAppDelegate.h
+c000000004DA2858A000000000000020C
+t1302496650
+s524
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionAppDelegate.m
+c000000004DA2858A0000000000000AB9
+t1302496650
+s2745
+i"GettingAttentionAppDelegate.h"
+i"GettingAttentionViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionViewController.h
+c000000004DA287420000000000000255
+t1302497090
+s597
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionViewController.m
+c000000004DA2882F000000000000072E
+t1302497327
+s1838
+i"GettingAttentionViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttentionViewController.xib
+c000000004DA2858A0000000000001A69
+t1302496650
+s6761
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttention_Prefix.pch
+c000000004DA2858A00000000000000C9
+t1302496650
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/MainWindow.xib
+c000000004DA2858A0000000000004E95
+t1302496650
+s20117
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app
+t1302497334
+s238
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM
+t1302497334
+s102
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+t1302497334
+s19272
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttentionViewController.nib
+t1302497333
+s795
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist
+t1302497333
+s633
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/MainWindow.nib
+t1302497333
+s1141
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/PkgInfo
+t1302497333
+s8
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttention.LinkFileList
+c000000004DA28835000000000000023E
+t1302497333
+s574
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o
+t1302497334
+s51540
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o
+t1302497334
+s42208
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o
+t1302497334
+s6372
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/main.m
+c000000004DA2858A0000000000000169
+t1302496650
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-ftvogaokbsieyufazcgdrkpprdhl/GettingAttention_Prefix.pch.gch
+t1302497334
+s15453392
+
+NGettingAttention-Info.plist
+c000000004DA2858A000000000000038D
+t1302496650
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324190133#324190133#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324190134.366010
+e324190134.466985
+r1
+xCompileC
+xbuild/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionAppDelegate.m324190134#324190134#0(0"0(0#0#111"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionAppDelegate.m8613771072#2533"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-ftvogaokbsieyufazcgdrkpprdhl/GettingAttention_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionAppDelegate.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o0#
+
+CCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324190134.437174
+e324190134.505813
+r1
+xCompileC
+xbuild/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionViewController.m324190134#324190134#0(0"0(0#0#114"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionViewController.m8615285792#2539"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-ftvogaokbsieyufazcgdrkpprdhl/GettingAttention_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/Classes/GettingAttentionViewController.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o0#
+
+CCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324190134.365092
+e324190134.437079
+r1
+xCompileC
+xbuild/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/main.m324190134#324190134#0(0"0(0#0#80"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/main.m8613669440#2479"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-ftvogaokbsieyufazcgdrkpprdhl/GettingAttention_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/main.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttentionViewController.xib
+s324190133.163659
+e324190133.549127
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttentionViewController.xib
+lSLF07#2@45"CompileXIB GettingAttentionViewController.xib324190133#324190133#0(0"0(0#0#108"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttentionViewController.xib8612500448#724"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttentionViewController.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttentionViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/MainWindow.xib
+s324190133.162905
+e324190133.549001
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib324190133#324190133#0(0"0(0#0#88"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/MainWindow.xib7669474380059930624#684"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/MainWindow.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+s324190134.628526
+e324190134.661121
+r1
+xGenerateDSYMFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/GettingAttention.app.dSYM build/Debug-iphonesimulator/GettingAttention.app/GettingAttention324190134#324190134#0(0"0(0#0#139"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention8615223904#515"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM0#
+
+CLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention normal i386
+s324190134.505889
+e324190134.628442
+r1
+xLd
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+xnormal
+xi386
+lSLF07#2@144"Link /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention324190134#324190134#0(0"0(0#0#0"8615348032#1120"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator -filelist /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttention.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention0#
+
+CProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist GettingAttention-Info.plist
+s324190133.153614
+e324190133.162838
+r1
+xProcessInfoPlistFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist
+xGettingAttention-Info.plist
+lSLF07#2@35"Process GettingAttention-Info.plist324190133#324190133#0(0"0(0#0#101"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttention-Info.plist12948321382367336#611"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GettingAttention-Info.plist -genpkginfo /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist0#
+
+CProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-ftvogaokbsieyufazcgdrkpprdhl/GettingAttention_Prefix.pch.gch GettingAttention_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s324190133.549230
+e324190134.365001
+r1
+xProcessPCH
+x/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-ftvogaokbsieyufazcgdrkpprdhl/GettingAttention_Prefix.pch.gch
+xGettingAttention_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile GettingAttention_Prefix.pch324190133#324190134#0(0"0(0#0#101"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttention_Prefix.pch8615330656#2327"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/GettingAttention_Prefix.pch -o /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-ftvogaokbsieyufazcgdrkpprdhl/GettingAttention_Prefix.pch.gch0#
+
+CTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app
+s324190134.661297
+e324190134.676075
+r1
+xTouch
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app
+lSLF07#2@128"Touch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app324190134#324190134#0(0"0(0#0#0"8611934464#357"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app0#
+

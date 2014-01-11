@@ -1,0 +1,325 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* FlowerInfoNavigatorAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* FlowerInfoNavigatorAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
+		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
+		28F335F11007B36200424DE2 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28F335F01007B36200424DE2 /* RootViewController.xib */; };
+		598C16321389CA710084C8F9 /* gerbera.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C16241389CA710084C8F9 /* gerbera.png */; };
+		598C16331389CA710084C8F9 /* grapehyacinth.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C16251389CA710084C8F9 /* grapehyacinth.png */; };
+		598C16341389CA710084C8F9 /* hollyhock.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C16261389CA710084C8F9 /* hollyhock.png */; };
+		598C16351389CA710084C8F9 /* hyacinth.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C16271389CA710084C8F9 /* hyacinth.png */; };
+		598C16361389CA710084C8F9 /* hydrangea.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C16281389CA710084C8F9 /* hydrangea.png */; };
+		598C16371389CA710084C8F9 /* iris.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C16291389CA710084C8F9 /* iris.png */; };
+		598C16381389CA710084C8F9 /* peony.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C162A1389CA710084C8F9 /* peony.png */; };
+		598C16391389CA710084C8F9 /* phlox.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C162B1389CA710084C8F9 /* phlox.png */; };
+		598C163A1389CA710084C8F9 /* pincushionflower.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C162C1389CA710084C8F9 /* pincushionflower.png */; };
+		598C163B1389CA710084C8F9 /* poppy.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C162D1389CA710084C8F9 /* poppy.png */; };
+		598C163C1389CA710084C8F9 /* rose.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C162E1389CA710084C8F9 /* rose.png */; };
+		598C163D1389CA710084C8F9 /* seaholly.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C162F1389CA710084C8F9 /* seaholly.png */; };
+		598C163E1389CA710084C8F9 /* strawflower.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C16301389CA710084C8F9 /* strawflower.png */; };
+		598C163F1389CA710084C8F9 /* tulip.png in Resources */ = {isa = PBXBuildFile; fileRef = 598C16311389CA710084C8F9 /* tulip.png */; };
+		598C16501389CDEA0084C8F9 /* FlowerDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 598C164E1389CDEA0084C8F9 /* FlowerDetailViewController.m */; };
+		598C16511389CDEA0084C8F9 /* FlowerDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 598C164F1389CDEA0084C8F9 /* FlowerDetailViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* FlowerInfoNavigatorAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlowerInfoNavigatorAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* FlowerInfoNavigatorAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlowerInfoNavigatorAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* FlowerInfoNavigator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlowerInfoNavigator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* FlowerInfoNavigator_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlowerInfoNavigator_Prefix.pch; sourceTree = "<group>"; };
+		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		28F335F01007B36200424DE2 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		598C16241389CA710084C8F9 /* gerbera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gerbera.png; sourceTree = "<group>"; };
+		598C16251389CA710084C8F9 /* grapehyacinth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grapehyacinth.png; sourceTree = "<group>"; };
+		598C16261389CA710084C8F9 /* hollyhock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hollyhock.png; sourceTree = "<group>"; };
+		598C16271389CA710084C8F9 /* hyacinth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hyacinth.png; sourceTree = "<group>"; };
+		598C16281389CA710084C8F9 /* hydrangea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hydrangea.png; sourceTree = "<group>"; };
+		598C16291389CA710084C8F9 /* iris.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iris.png; sourceTree = "<group>"; };
+		598C162A1389CA710084C8F9 /* peony.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = peony.png; sourceTree = "<group>"; };
+		598C162B1389CA710084C8F9 /* phlox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = phlox.png; sourceTree = "<group>"; };
+		598C162C1389CA710084C8F9 /* pincushionflower.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pincushionflower.png; sourceTree = "<group>"; };
+		598C162D1389CA710084C8F9 /* poppy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poppy.png; sourceTree = "<group>"; };
+		598C162E1389CA710084C8F9 /* rose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rose.png; sourceTree = "<group>"; };
+		598C162F1389CA710084C8F9 /* seaholly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = seaholly.png; sourceTree = "<group>"; };
+		598C16301389CA710084C8F9 /* strawflower.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = strawflower.png; sourceTree = "<group>"; };
+		598C16311389CA710084C8F9 /* tulip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tulip.png; sourceTree = "<group>"; };
+		598C164D1389CDEA0084C8F9 /* FlowerDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlowerDetailViewController.h; sourceTree = "<group>"; };
+		598C164E1389CDEA0084C8F9 /* FlowerDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlowerDetailViewController.m; sourceTree = "<group>"; };
+		598C164F1389CDEA0084C8F9 /* FlowerDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = FlowerDetailViewController.xib; path = Classes/FlowerDetailViewController.xib; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* FlowerInfoNavigator-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FlowerInfoNavigator-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
+				28C286E00D94DF7D0034E888 /* RootViewController.m */,
+				1D3623240D0F684500981E51 /* FlowerInfoNavigatorAppDelegate.h */,
+				1D3623250D0F684500981E51 /* FlowerInfoNavigatorAppDelegate.m */,
+				598C164D1389CDEA0084C8F9 /* FlowerDetailViewController.h */,
+				598C164E1389CDEA0084C8F9 /* FlowerDetailViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* FlowerInfoNavigator.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* FlowerInfoNavigator_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				28F335F01007B36200424DE2 /* RootViewController.xib */,
+				598C16241389CA710084C8F9 /* gerbera.png */,
+				598C16251389CA710084C8F9 /* grapehyacinth.png */,
+				598C16261389CA710084C8F9 /* hollyhock.png */,
+				598C16271389CA710084C8F9 /* hyacinth.png */,
+				598C16281389CA710084C8F9 /* hydrangea.png */,
+				598C16291389CA710084C8F9 /* iris.png */,
+				598C162A1389CA710084C8F9 /* peony.png */,
+				598C162B1389CA710084C8F9 /* phlox.png */,
+				598C162C1389CA710084C8F9 /* pincushionflower.png */,
+				598C162D1389CA710084C8F9 /* poppy.png */,
+				598C162E1389CA710084C8F9 /* rose.png */,
+				598C162F1389CA710084C8F9 /* seaholly.png */,
+				598C16301389CA710084C8F9 /* strawflower.png */,
+				598C16311389CA710084C8F9 /* tulip.png */,
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				598C164F1389CDEA0084C8F9 /* FlowerDetailViewController.xib */,
+				8D1107310486CEB800E47090 /* FlowerInfoNavigator-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* FlowerInfoNavigator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FlowerInfoNavigator" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FlowerInfoNavigator;
+			productName = FlowerInfoNavigator;
+			productReference = 1D6058910D05DD3D006BFB54 /* FlowerInfoNavigator.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FlowerInfoNavigator" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* FlowerInfoNavigator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
+				28F335F11007B36200424DE2 /* RootViewController.xib in Resources */,
+				598C16321389CA710084C8F9 /* gerbera.png in Resources */,
+				598C16331389CA710084C8F9 /* grapehyacinth.png in Resources */,
+				598C16341389CA710084C8F9 /* hollyhock.png in Resources */,
+				598C16351389CA710084C8F9 /* hyacinth.png in Resources */,
+				598C16361389CA710084C8F9 /* hydrangea.png in Resources */,
+				598C16371389CA710084C8F9 /* iris.png in Resources */,
+				598C16381389CA710084C8F9 /* peony.png in Resources */,
+				598C16391389CA710084C8F9 /* phlox.png in Resources */,
+				598C163A1389CA710084C8F9 /* pincushionflower.png in Resources */,
+				598C163B1389CA710084C8F9 /* poppy.png in Resources */,
+				598C163C1389CA710084C8F9 /* rose.png in Resources */,
+				598C163D1389CA710084C8F9 /* seaholly.png in Resources */,
+				598C163E1389CA710084C8F9 /* strawflower.png in Resources */,
+				598C163F1389CA710084C8F9 /* tulip.png in Resources */,
+				598C16511389CDEA0084C8F9 /* FlowerDetailViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* FlowerInfoNavigatorAppDelegate.m in Sources */,
+				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
+				598C16501389CDEA0084C8F9 /* FlowerDetailViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FlowerInfoNavigator_Prefix.pch;
+				INFOPLIST_FILE = "FlowerInfoNavigator-Info.plist";
+				PRODUCT_NAME = FlowerInfoNavigator;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FlowerInfoNavigator_Prefix.pch;
+				INFOPLIST_FILE = "FlowerInfoNavigator-Info.plist";
+				PRODUCT_NAME = FlowerInfoNavigator;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FlowerInfoNavigator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FlowerInfoNavigator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

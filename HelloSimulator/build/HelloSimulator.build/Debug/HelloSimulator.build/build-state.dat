@@ -1,0 +1,51 @@
+THelloSimulator
+v7
+r1
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/HelloSimulatorViewController.xib
+c000000004BFFF5B1000000000000433A
+t1275065777
+s17210
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/MainWindow.xib
+c000000004BFFF0F40000000000004E7D
+t1275064564
+s20093
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug/HelloSimulator.app
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug/HelloSimulator.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug/HelloSimulator.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug/HelloSimulator.app/Contents/Resources/HelloSimulatorViewController.nib
+t2
+s0
+
+N/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug/HelloSimulator.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NHelloSimulator-Info.plist
+c000000004BFFF0F4000000000000038D
+t1275064564
+s909
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/HelloSimulatorViewController.xib"
+r0
+
+CCompileXIB "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug/HelloSimulator.app/Contents/Info.plist" HelloSimulator-Info.plist
+r0
+
+CTouch "/Users/jray/Dropbox/Freelance/iPhone OS 4 Book/Chapter 2 - Done/Hour 2 - Projects/HelloSimulator/build/Debug/HelloSimulator.app"
+r0
+

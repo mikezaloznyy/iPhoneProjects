@@ -1,0 +1,376 @@
+TFlowerWeb
+v7
+r0
+t325477063.284176
+cCheck dependencies
+cProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist FlowerWeb-Info.plist
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/MainWindow.xib
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/FlowerWebViewController.xib
+cCpResource build/Debug-iphonesimulator/FlowerWeb.app/red.wav red.wav
+cCpResource build/Debug-iphonesimulator/FlowerWeb.app/green.wav green.wav
+cCpResource build/Debug-iphonesimulator/FlowerWeb.app/blue.wav blue.wav
+cCpResource build/Debug-iphonesimulator/FlowerWeb.app/photo_details_off.wav photo_details_off.wav
+cCpResource build/Debug-iphonesimulator/FlowerWeb.app/show_details_on.wav show_details_on.wav
+cCpResource build/Debug-iphonesimulator/FlowerWeb.app/yellow.wav yellow.wav
+cProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dukgwkxxwyijqsdobsezidoznenh/FlowerWeb_Prefix.pch.gch FlowerWeb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb normal i386
+cGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+cTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D682B4E0000000000000110
+t1298672462
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebAppDelegate.h
+c000000004C200E2000000000000001ED
+t1277169184
+s493
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebAppDelegate.m
+c000000004C200E200000000000000A97
+t1277169184
+s2711
+i"FlowerWebAppDelegate.h"
+i"FlowerWebViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebViewController.h
+c000000004DA6748D00000000000002DF
+t1302754445
+s735
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebViewController.m
+c000000004DA6773E000000000000124E
+t1302755134
+s4686
+i"FlowerWebViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/FlowerWebViewController.xib
+c000000004C214EA00000000000007AB8
+t1277251232
+s31416
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/FlowerWeb_Prefix.pch
+c000000004C200E2100000000000000BB
+t1277169185
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/MainWindow.xib
+c000000004C200E200000000000004E41
+t1277169184
+s20033
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/blue.wav
+c000000004DA664EE0000000000086A86
+t1302750446
+s551558
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app
+t1303784263
+s442
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM
+t1303784263
+s102
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+t1303784263
+s23728
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWebViewController.nib
+t1303784262
+s3089
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist
+t1303784259
+s599
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/MainWindow.nib
+t1303784261
+s1127
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/PkgInfo
+t1303784259
+s8
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/blue.wav
+t1303784261
+s551558
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/green.wav
+t1303784261
+s531078
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/photo_details_off.wav
+t1303784261
+s678534
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/red.wav
+t1303784261
+s479878
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/show_details_on.wav
+t1303784261
+s907522
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/yellow.wav
+t1303784261
+s864514
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWeb.LinkFileList
+c000000004DB62B4300000000000001F1
+t1303784259
+s497
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o
+t1303784262
+s51996
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o
+t1303784263
+s52276
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o
+t1303784262
+s6360
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/green.wav
+c000000004DA665B00000000000081A86
+t1302750640
+s531078
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/main.m
+c000000004C200E21000000000000016D
+t1277169185
+s365
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/photo_details_off.wav
+c000000004DA6652E00000000000A5A86
+t1302750510
+s678534
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/red.wav
+c000000004DA6665A0000000000075286
+t1302750810
+s479878
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/show_details_on.wav
+c000000004DA6655500000000000DD902
+t1302750549
+s907522
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/yellow.wav
+c000000004DA6658500000000000D3102
+t1302750597
+s864514
+
+N/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dukgwkxxwyijqsdobsezidoznenh/FlowerWeb_Prefix.pch.gch
+t1302755235
+s15453392
+
+NFlowerWeb-Info.plist
+c000000004C200E20000000000000038D
+t1277169184
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325477059#325477059#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325477062.242902
+e325477062.935190
+r1
+xCompileC
+xbuild/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebAppDelegate.m325477062#325477062#0(0"0(0#0#97"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebAppDelegate.m8604690144#2302"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dukgwkxxwyijqsdobsezidoznenh/FlowerWeb_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebAppDelegate.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o0#
+
+CCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325477062.921438
+e325477063.005293
+r1
+xCompileC
+xbuild/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebViewController.m325477062#325477063#0(0"0(0#0#100"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebViewController.m8601230144#2308"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dukgwkxxwyijqsdobsezidoznenh/FlowerWeb_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/Classes/FlowerWebViewController.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o0#
+
+CCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325477062.242073
+e325477062.921304
+r1
+xCompileC
+xbuild/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/main.m325477062#325477062#0(0"0(0#0#73"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/main.m8603540320#2262"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dukgwkxxwyijqsdobsezidoznenh/FlowerWeb_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/main.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/FlowerWebViewController.xib
+s325477059.138640
+e325477062.241794
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/FlowerWebViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@38"CompileXIB FlowerWebViewController.xib325477059#325477062#0(420"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#94"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/FlowerWebViewController.xib8602622240#682"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWebViewController.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/FlowerWebViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/MainWindow.xib
+s325477059.098626
+e325477061.281591
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325477059#325477061#0(0"0(0#0#81"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/MainWindow.xib8600194624#656"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/MainWindow.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/FlowerWeb.app/blue.wav blue.wav
+s325477061.282999
+e325477061.795076
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerWeb.app/blue.wav
+xblue.wav
+lSLF07#2@13"Copy blue.wav325477061#325477061#0(0"0(0#0#75"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/blue.wav8603396832#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/blue.wav /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerWeb.app/green.wav green.wav
+s325477061.282425
+e325477061.794588
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerWeb.app/green.wav
+xgreen.wav
+lSLF07#2@14"Copy green.wav325477061#325477061#0(0"0(0#0#76"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/green.wav8600530464#553"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/green.wav /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerWeb.app/photo_details_off.wav photo_details_off.wav
+s325477061.283562
+e325477061.926401
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerWeb.app/photo_details_off.wav
+xphoto_details_off.wav
+lSLF07#2@26"Copy photo_details_off.wav325477061#325477061#0(0"0(0#0#88"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/photo_details_off.wav8599465344#565"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/photo_details_off.wav /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerWeb.app/red.wav red.wav
+s325477061.281737
+e325477061.843228
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerWeb.app/red.wav
+xred.wav
+lSLF07#2@12"Copy red.wav325477061#325477061#0(0"0(0#0#74"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/red.wav8603314880#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/red.wav /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerWeb.app/show_details_on.wav show_details_on.wav
+s325477061.284124
+e325477061.991162
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerWeb.app/show_details_on.wav
+xshow_details_on.wav
+lSLF07#2@24"Copy show_details_on.wav325477061#325477061#0(0"0(0#0#86"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/show_details_on.wav8602801664#563"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/show_details_on.wav /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerWeb.app/yellow.wav yellow.wav
+s325477061.284685
+e325477061.956941
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerWeb.app/yellow.wav
+xyellow.wav
+lSLF07#2@15"Copy yellow.wav325477061#325477061#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/yellow.wav8601122208#554"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/yellow.wav /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app0#
+
+CGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+s325477063.236129
+e325477063.268343
+r1
+xGenerateDSYMFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/FlowerWeb.app.dSYM build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb325477063#325477063#0(0"0(0#0#118"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb8604713472#473"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM0#
+
+CLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb normal i386
+s325477063.005372
+e325477063.236045
+r1
+xLd
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+xnormal
+xi386
+lSLF07#2@123"Link /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb325477063#325477063#0(0"0(0#0#0"8598407936#1074"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator -filelist /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWeb.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb0#
+
+CProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist FlowerWeb-Info.plist
+s325477059.071808
+e325477059.098555
+r1
+xProcessInfoPlistFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist
+xFlowerWeb-Info.plist
+lSLF07#2@28"Process FlowerWeb-Info.plist325477059#325477059#0(0"0(0#0#87"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/FlowerWeb-Info.plist29555366482477168#569"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlowerWeb-Info.plist -genpkginfo /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist0#
+
+CProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dukgwkxxwyijqsdobsezidoznenh/FlowerWeb_Prefix.pch.gch FlowerWeb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app
+s325477063.268418
+e325477063.284133
+r1
+xTouch
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app
+lSLF07#2@114"Touch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app325477063#325477063#0(0"0(0#0#0"8604734176#336"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app0#
+

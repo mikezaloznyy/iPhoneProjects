@@ -1,0 +1,645 @@
+TImageHop
+v7
+r0
+t324442840.865320
+cCheck dependencies
+cProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist ImageHop-Info.plist
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/MainWindow.xib
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/ImageHopViewController.xib
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-1.png frame-1.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-2.png frame-2.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-3.png frame-3.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-4.png frame-4.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-5.png frame-5.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-6.png frame-6.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-7.png frame-7.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-8.png frame-8.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-9.png frame-9.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-10.png frame-10.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-11.png frame-11.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-12.png frame-12.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-13.png frame-13.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-14.png frame-14.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-15.png frame-15.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-16.png frame-16.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-17.png frame-17.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-18.png frame-18.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-19.png frame-19.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-20.png frame-20.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/icon.png icon.png
+cProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-fqdsqktfhgscqaacnnqtyhvuelhc/ImageHop_Prefix.pch.gch ImageHop_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop normal i386
+cGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+cTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D682B4E0000000000000110
+t1298672462
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopAppDelegate.h
+c000000004D8C29CE00000000000001DC
+t1301031374
+s476
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopAppDelegate.m
+c000000004D8C29CE0000000000000A91
+t1301031374
+s2705
+i"ImageHopAppDelegate.h"
+i"ImageHopViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopViewController.h
+c000000004D8C2FA10000000000000294
+t1301032865
+s660
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopViewController.m
+c000000004D9D5A75000000000000106B
+t1302157941
+s4203
+i"ImageHopViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/ImageHopViewController.xib
+c000000004D9D59AC000000000000786F
+t1302157740
+s30831
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/ImageHop_Prefix.pch
+c000000004D8C29CE00000000000000B9
+t1301031374
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/MainWindow.xib
+c000000004D8C29CE0000000000004E35
+t1301031374
+s20021
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app
+t1302750040
+s952
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM
+t1302750040
+s102
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+t1302750040
+s23756
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHopViewController.nib
+t1302750040
+s2705
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist
+t1302750039
+s595
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/MainWindow.nib
+t1302750039
+s1125
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/PkgInfo
+t1302750039
+s8
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-1.png
+t1302750040
+s20104
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-10.png
+t1302750040
+s30147
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-11.png
+t1302750040
+s30145
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-12.png
+t1302750040
+s29948
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-13.png
+t1302750040
+s32086
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-14.png
+t1302750040
+s31388
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-15.png
+t1302750040
+s31601
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-16.png
+t1302750040
+s29615
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-17.png
+t1302750040
+s29631
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-18.png
+t1302750040
+s29614
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-19.png
+t1302750040
+s29613
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-2.png
+t1302750040
+s20107
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-20.png
+t1302750040
+s29615
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-3.png
+t1302750040
+s20107
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-4.png
+t1302750040
+s20108
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-5.png
+t1302750040
+s20107
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-6.png
+t1302750040
+s20107
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-7.png
+t1302750040
+s20106
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-8.png
+t1302750040
+s26420
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-9.png
+t1302750040
+s29717
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/icon.png
+t1302750040
+s5469
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHop.LinkFileList
+c000000004DA6635700000000000001E6
+t1302750039
+s486
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o
+t1302750040
+s51656
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o
+t1302750040
+s51928
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o
+t1302750040
+s6356
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-1.png
+c000000004A4425D40000000000004E88
+t1245980116
+s20104
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-10.png
+c000000004A4426E300000000000075C3
+t1245980387
+s30147
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-11.png
+c000000004A44270200000000000075C1
+t1245980418
+s30145
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-12.png
+c000000004A44273C00000000000074FC
+t1245980476
+s29948
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-13.png
+c000000004A44275F0000000000007D56
+t1245980511
+s32086
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-14.png
+c000000004A44277F0000000000007A9C
+t1245980543
+s31388
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-15.png
+c000000004A4427A80000000000007B71
+t1245980584
+s31601
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-16.png
+c000000004A4427CF00000000000073AF
+t1245980623
+s29615
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-17.png
+c000000004A4427EE00000000000073BF
+t1245980654
+s29631
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-18.png
+c000000004A44280800000000000073AE
+t1245980680
+s29614
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-19.png
+c000000004A44281B00000000000073AD
+t1245980699
+s29613
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-2.png
+c000000004A4425EA0000000000004E8B
+t1245980138
+s20107
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-20.png
+c000000004A44283600000000000073AF
+t1245980726
+s29615
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-3.png
+c000000004A4425FF0000000000004E8B
+t1245980159
+s20107
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-4.png
+c000000004A4426350000000000004E8C
+t1245980213
+s20108
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-5.png
+c000000004A4426470000000000004E8B
+t1245980231
+s20107
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-6.png
+c000000004A44265B0000000000004E8B
+t1245980251
+s20107
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-7.png
+c000000004A4426780000000000004E8A
+t1245980280
+s20106
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-8.png
+c000000004A4426A60000000000006734
+t1245980326
+s26420
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-9.png
+c000000004A4426C40000000000007415
+t1245980356
+s29717
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/icon.png
+c000000004A46857A000000000000155D
+t1246135674
+s5469
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/main.m
+c000000004D8C29CE0000000000000161
+t1301031374
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-fqdsqktfhgscqaacnnqtyhvuelhc/ImageHop_Prefix.pch.gch
+t1302157997
+s15453392
+
+NImageHop-Info.plist
+c000000004D8C29CE000000000000038D
+t1301031374
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324442839#324442839#0(0"0(0#1#0"8615267296#0"0#
+
+CCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324442840.145611
+e324442840.689104
+r1
+xCompileC
+xbuild/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopAppDelegate.m324442840#324442840#0(0"0(0#0#95"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopAppDelegate.m8615324384#2269"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-fqdsqktfhgscqaacnnqtyhvuelhc/ImageHop_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopAppDelegate.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o0#
+
+CCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324442840.670098
+e324442840.753582
+r1
+xCompileC
+xbuild/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopViewController.m324442840#324442840#0(0"0(0#0#98"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopViewController.m8615901408#2275"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-fqdsqktfhgscqaacnnqtyhvuelhc/ImageHop_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/Classes/ImageHopViewController.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o0#
+
+CCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324442840.142489
+e324442840.670015
+r1
+xCompileC
+xbuild/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/main.m324442840#324442840#0(0"0(0#0#72"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/main.m8615775200#2231"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-fqdsqktfhgscqaacnnqtyhvuelhc/ImageHop_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/main.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/ImageHopViewController.xib
+s324442839.609253
+e324442840.142341
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/ImageHopViewController.xib
+lSLF07#2@37"CompileXIB ImageHopViewController.xib324442839#324442840#0(0"0(0#0#92"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/ImageHopViewController.xib8614642624#676"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHopViewController.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/ImageHopViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/MainWindow.xib
+s324442839.608541
+e324442839.998229
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib324442839#324442839#0(0"0(0#0#80"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/MainWindow.xib8602115712#652"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/MainWindow.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-1.png frame-1.png
+s324442839.998369
+e324442840.054926
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-1.png
+xframe-1.png
+lSLF07#2@16"Copy frame-1.png324442839#324442840#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-1.png8598273824#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-1.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-10.png frame-10.png
+s324442840.043095
+e324442840.064474
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-10.png
+xframe-10.png
+lSLF07#2@17"Copy frame-10.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-10.png8615411680#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-10.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-11.png frame-11.png
+s324442840.043673
+e324442840.065196
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-11.png
+xframe-11.png
+lSLF07#2@17"Copy frame-11.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-11.png8612966464#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-11.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-12.png frame-12.png
+s324442840.047636
+e324442840.065290
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-12.png
+xframe-12.png
+lSLF07#2@17"Copy frame-12.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-12.png8615794304#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-12.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-13.png frame-13.png
+s324442840.049384
+e324442840.065381
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-13.png
+xframe-13.png
+lSLF07#2@17"Copy frame-13.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-13.png8614698592#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-13.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-14.png frame-14.png
+s324442840.052475
+e324442840.077417
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-14.png
+xframe-14.png
+lSLF07#2@17"Copy frame-14.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-14.png8612579520#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-14.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-15.png frame-15.png
+s324442840.054190
+e324442840.077984
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-15.png
+xframe-15.png
+lSLF07#2@17"Copy frame-15.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-15.png8602168768#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-15.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-16.png frame-16.png
+s324442840.056619
+e324442840.077882
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-16.png
+xframe-16.png
+lSLF07#2@17"Copy frame-16.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-16.png8603930496#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-16.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-17.png frame-17.png
+s324442840.057948
+e324442840.078169
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-17.png
+xframe-17.png
+lSLF07#2@17"Copy frame-17.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-17.png8598268032#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-17.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-18.png frame-18.png
+s324442840.060322
+e324442840.078301
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-18.png
+xframe-18.png
+lSLF07#2@17"Copy frame-18.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-18.png8613506880#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-18.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-19.png frame-19.png
+s324442840.064585
+e324442840.081085
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-19.png
+xframe-19.png
+lSLF07#2@17"Copy frame-19.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-19.png8614709952#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-19.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-2.png frame-2.png
+s324442839.999268
+e324442840.042437
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-2.png
+xframe-2.png
+lSLF07#2@16"Copy frame-2.png324442839#324442840#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-2.png8613612384#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-2.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-20.png frame-20.png
+s324442840.065429
+e324442840.081271
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-20.png
+xframe-20.png
+lSLF07#2@17"Copy frame-20.png324442840#324442840#0(0"0(0#0#78"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-20.png8614415552#552"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-20.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-3.png frame-3.png
+s324442840.000277
+e324442840.042874
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-3.png
+xframe-3.png
+lSLF07#2@16"Copy frame-3.png324442840#324442840#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-3.png8613390720#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-3.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-4.png frame-4.png
+s324442840.002207
+e324442840.047263
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-4.png
+xframe-4.png
+lSLF07#2@16"Copy frame-4.png324442840#324442840#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-4.png8613103808#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-4.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-5.png frame-5.png
+s324442840.003625
+e324442840.047391
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-5.png
+xframe-5.png
+lSLF07#2@16"Copy frame-5.png324442840#324442840#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-5.png8604940576#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-5.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-6.png frame-6.png
+s324442840.004148
+e324442840.047484
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-6.png
+xframe-6.png
+lSLF07#2@16"Copy frame-6.png324442840#324442840#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-6.png8603908096#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-6.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-7.png frame-7.png
+s324442840.004641
+e324442840.047578
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-7.png
+xframe-7.png
+lSLF07#2@16"Copy frame-7.png324442840#324442840#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-7.png8605434272#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-7.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-8.png frame-8.png
+s324442840.005223
+e324442840.055024
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-8.png
+xframe-8.png
+lSLF07#2@16"Copy frame-8.png324442840#324442840#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-8.png8605091616#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-8.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-9.png frame-9.png
+s324442840.006367
+e324442840.056561
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-9.png
+xframe-9.png
+lSLF07#2@16"Copy frame-9.png324442840#324442840#0(0"0(0#0#77"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-9.png8604101600#551"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/frame-9.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/icon.png icon.png
+s324442840.067659
+e324442840.081377
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png324442840#324442840#0(0"0(0#0#74"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/icon.png8612566304#548"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/icon.png /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+s324442840.820858
+e324442840.855170
+r1
+xGenerateDSYMFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/ImageHop.app.dSYM build/Debug-iphonesimulator/ImageHop.app/ImageHop324442840#324442840#0(0"0(0#0#115"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop8615846176#467"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM0#
+
+CLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop normal i386
+s324442840.753669
+e324442840.820764
+r1
+xLd
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+xnormal
+xi386
+lSLF07#2@120"Link /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop324442840#324442840#0(0"0(0#0#0"8613251168#1040"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator -filelist /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHop.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop0#
+
+CProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist ImageHop-Info.plist
+s324442839.596611
+e324442839.605293
+r1
+xProcessInfoPlistFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist
+xImageHop-Info.plist
+lSLF07#2@27"Process ImageHop-Info.plist324442839#324442839#0(0"0(0#0#85"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/ImageHop-Info.plist8612881792#563"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ImageHop-Info.plist -genpkginfo /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist0#
+
+CProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-fqdsqktfhgscqaacnnqtyhvuelhc/ImageHop_Prefix.pch.gch ImageHop_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app
+s324442840.855265
+e324442840.865279
+r1
+xTouch
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app
+lSLF07#2@112"Touch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app324442840#324442840#0(0"0(0#0#0"8615361760#333"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+

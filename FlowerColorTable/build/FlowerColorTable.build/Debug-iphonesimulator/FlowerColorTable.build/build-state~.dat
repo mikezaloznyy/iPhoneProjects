@@ -1,0 +1,235 @@
+TFlowerColorTable
+v7
+r0
+t327790535.913896
+cCheck dependencies
+cProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist FlowerColorTable-Info.plist
+cCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/MainWindow.xib
+cProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fkmvuxujlbnrcieewzudqfvftoxx/FlowerColorTable_Prefix.pch.gch FlowerColorTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D682B4E0000000000000110
+t1298672462
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m
+c000000004DD9768600000000000012D5
+t1306097286
+s4821
+i"FlowerColorTableViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/FlowerColorTableAppDelegate.h
+c000000004DD9781700000000000001F3
+t1306097687
+s499
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m
+c000000004DD978380000000000000ABB
+t1306097720
+s2747
+i"FlowerColorTableAppDelegate.h"
+i"FlowerColorTableViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/FlowerColorTableViewController.h
+c000000004DD9740B0000000000000105
+t1306096651
+s261
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/FlowerColorTableViewController.m
+c000000004DD9740B00000000000012D9
+t1306096651
+s4825
+i"FlowerColorTableViewController.h"
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/FlowerColorTable_Prefix.pch
+c000000004DD973B800000000000000C9
+t1306096568
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/MainWindow.xib
+c000000004DD976440000000000005DDF
+t1306097220
+s24031
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app
+t2
+s0
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app.dSYM
+t2
+s0
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable
+t2
+s0
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist
+t1306097734
+s633
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/MainWindow.nib
+t1306097735
+s1480
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/PkgInfo
+t1306097734
+s8
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTable.LinkFileList
+c000000004DD97846000000000000023E
+t1306097734
+s574
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o
+t1306097735
+s50680
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o
+t2
+s0
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o
+t1306097735
+s6372
+
+N/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/main.m
+c000000004DD973B80000000000000169
+t1306096568
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fkmvuxujlbnrcieewzudqfvftoxx/FlowerColorTable_Prefix.pch.gch
+t1306097735
+s15453392
+
+NFlowerColorTable-Info.plist
+c000000004DD973B8000000000000038D
+t1306096568
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327790534#327790534#0(0"0(0#1#0"8616882944#0"0#
+
+CCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327790535.818483
+e327790535.887850
+r1
+xCompileC
+xbuild/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m327790535#327790535#0(0"0(0#0#111"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m8615802240#2533"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fkmvuxujlbnrcieewzudqfvftoxx/FlowerColorTable_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o0#
+
+CCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327790535.874619
+e327790535.913821
+r0
+xCompileC
+xbuild/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m: In function '-[FlowerColorTableViewController numberOfSectionsInTableView:]':
+o/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:76: error: 'number' undeclared (first use in this function)
+o/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:76: error: (Each undeclared identifier is reported only once
+o/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:76: error: for each function it appears in.)
+o/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:76: error: expected ';' before 'of'
+o/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:77: warning: control reaches end of non-void function
+o/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m: In function '-[FlowerColorTableViewController tableView:numberOfRowsInSection:]':
+o/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:82: error: expected expression before '<' token
+o/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:83: warning: control reaches end of non-void function
+lSLF07#2@125"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m327790535#327790535#0(1582"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m: In function '-[FlowerColorTableViewController numberOfSectionsInTableView:]':/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:76: error: 'number' undeclared (first use in this function)/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:76: error: (Each undeclared identifier is reported only once/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:76: error: for each function it appears in.)/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:76: error: expected ';' before 'of'/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:77: warning: control reaches end of non-void function/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m: In function '-[FlowerColorTableViewController tableView:numberOfRowsInSection:]':/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:82: error: expected expression before '<' token/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m:83: warning: control reaches end of non-void function5(4@48"'number' undeclared (first use in this function)327790535#197#178#0(6@117"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m327790086#76#0#76#0#43"'*' undeclared (first use in this function)0(4@24"Expected ';' before 'of'327790535#717#154#0(6@117"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m327790086#76#0#76#0#19"expected * before *0(22@40"Control reaches end of non-void function327790535#871#172#0(6@117"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m327790086#77#0#77#0#40"control reaches end of non-void function0(4@36"Expected expression before '<' token327790535#1244#166#0(6@117"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m327790086#82#0#82#0#19"expected * before *0(22@40"Control reaches end of non-void function327790535#1410#172#0(6@117"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m327790086#83#0#83#0#40"control reaches end of non-void function0(0#0#117"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m8615473216#2542"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fkmvuxujlbnrcieewzudqfvftoxx/FlowerColorTable_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/Classes/../FlowerColorTableViewController.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o1#
+
+CCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/FlowerColorTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327790535.817493
+e327790535.874533
+r1
+xCompileC
+xbuild/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/main.m327790535#327790535#0(0"0(0#0#80"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/main.m8615983648#2479"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources -include /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fkmvuxujlbnrcieewzudqfvftoxx/FlowerColorTable_Prefix.pch -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/main.m -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/MainWindow.xib
+s327790534.940274
+e327790535.289235
+r1
+xCompileXIB
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327790534#327790535#0(0"0(0#0#88"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/MainWindow.xib8615739808#684"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/MainWindow.nib /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app.dSYM /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable
+r0
+
+CLd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable normal i386
+r0
+
+CProcessInfoPlistFile /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist FlowerColorTable-Info.plist
+s327790534.936328
+e327790534.940208
+r1
+xProcessInfoPlistFile
+x/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist
+xFlowerColorTable-Info.plist
+lSLF07#2@35"Process FlowerColorTable-Info.plist327790534#327790534#0(0"0(0#0#101"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/FlowerColorTable-Info.plist8616115168#611"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlowerColorTable-Info.plist -genpkginfo /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist0#
+
+CProcessPCH /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fkmvuxujlbnrcieewzudqfvftoxx/FlowerColorTable_Prefix.pch.gch FlowerColorTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327790535.289337
+e327790535.817397
+r1
+xProcessPCH
+x/var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fkmvuxujlbnrcieewzudqfvftoxx/FlowerColorTable_Prefix.pch.gch
+xFlowerColorTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile FlowerColorTable_Prefix.pch327790535#327790535#0(0"0(0#0#101"/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/FlowerColorTable_Prefix.pch8616668512#2327"    cd /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-generated-files.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-own-target-headers.hmap -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-all-target-headers.hmap -iquote /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-project-headers.hmap -F/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/include -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources/i386 -I/Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources -c /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/FlowerColorTable_Prefix.pch -o /var/folders/P9/P9cAquCEG10swPcqKIisJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fkmvuxujlbnrcieewzudqfvftoxx/FlowerColorTable_Prefix.pch.gch0#
+
+CTouch /Users/mykhaylozaloznyy/Documents/iPhoneProjects/CIT198B/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app
+r0
+
